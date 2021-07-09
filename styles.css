@@ -1,0 +1,170 @@
+body {
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #476072;
+}
+a:visited {
+  color: #476072;
+}
+a:hover {
+  color: #548CA8;
+}
+
+.head-container {
+    background-color: #EEEEEE;
+    color: #334257;
+    font-family: 'Montserrat', sans-serif;
+    padding: 1%;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.logo {
+    display: inline-block;
+    width: 7.5%;
+    position: relative;
+    margin-left: 5%;
+}
+
+.header-table {
+    display: inline-table; 
+    font-size: 16px; 
+    text-align: center;
+    width: 70%;
+    height: 80%;
+    position: absolute;
+    left: 30%;
+}
+
+.top-container {
+  background-color: #EEEEEE;
+  text-align: center;
+  position: relative;
+  padding-top: 200px;
+  height: 600px;
+  color: #334257;
+}
+
+.wallpaper {
+    width: 40%;
+    height: auto;
+    max-width: 40%;
+    position: absolute;
+    bottom: 5%;
+    left: 31%;
+}
+
+h1 {
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 64px;
+}
+
+.middle-container {
+  background-color: #476072;
+  height: 570px;
+  padding: 50px;
+  position: relative;
+}
+
+.profilepic {
+  display: inline-block;
+  width: 20%;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+}
+
+.names {
+  display: inline-block;
+  color: #EEEEEE;
+  position: absolute;
+  top: 27.5%;
+  left: 40%;
+}
+
+.introduction {
+  display: inline-block;
+  color: #EEEEEE;
+  position: absolute;
+  top: 37.5%;
+  left: 40%;
+  width: 50%;
+  text-align: justify;
+}
+.bottom-container {
+  background-color:  #EEEEEE;
+  height: 620px;
+  padding: 25px;
+  position: relative;
+  text-align: center;
+}
+
+.masterproeven {
+  display: inline-block;
+  color:#476072;
+  position: relative;
+}
+.MPtitel {
+  width: 60%;
+  color: #476072;
+}
+.MPtitel:hover {
+  color:#EEEEEE
+}
+
+.divider {
+  background-color: #476072;
+  border: 1px;
+  border-color: #476072;
+  display: block;
+  height: 70%;
+  width: 2px;
+  position: absolute;
+  left: 50%;
+  bottom: 10%;
+}
+.MPtitelContainer {
+  display: inline-block;
+  height: 75px;
+
+}
+
+.MPSofie {
+  display: inline-block;
+  text-align: left;
+  width: 55%;
+  position: absolute;
+  top: 100px;
+  left: 8.5%;
+}
+
+.MPpicSofie {
+  width: 57.5%;
+  height: auto;
+  max-width: 57.5%;
+}
+.MPauteurs {
+  color: #476072;
+}
+
+.MPLiesbeth {
+  display: inline-block;
+  text-align: left;
+  width: 40%;
+  position: absolute;
+  top: 100px;
+  left: 58.5%;
+}
+.MPpicLiesbeth {
+  width: 77.5%;
+  height: auto;
+  max-width: 77.5%;
+}
